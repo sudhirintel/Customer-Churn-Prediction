@@ -139,18 +139,7 @@ Based on the analysis, the following strategies can help reduce customer churn:
 - Develop loyalty programs for high-risk customer segments.
 
 ---
-# 🚀 Future Improvements
 
-Future enhancements for this project include:
-
-- Hyperparameter tuning using GridSearchCV.
-- Cross-validation for more robust model evaluation.
-- Implementation of XGBoost and LightGBM models.
-- Model explainability using SHAP values.
-- Deployment as an interactive web application using Streamlit.
-- Development of a real-time customer churn prediction system.
-
----
 ---
 
 # 📁 Repository Structure
@@ -187,7 +176,7 @@ git clone https://github.com/sudhirintel/Customer-Churn-Prediction.git
 ### 2. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install - requirements.txt
 ```
 
 ### 3. Open the notebook
@@ -199,7 +188,18 @@ Run the `Customer_Churn_Prediction.ipynb` notebook in **Google Colab** or **Jupy
 Run all notebook cells sequentially to reproduce the analysis and machine learning results.
 
 ---
+# 🚀 Future Improvements
 
+Future enhancements for this project include:
+
+- Hyperparameter tuning using GridSearchCV.
+- Cross-validation for more robust model evaluation.
+- Implementation of XGBoost and LightGBM models.
+- Model explainability using SHAP values.
+- Deployment as an interactive web application using Streamlit.
+- Development of a real-time customer churn prediction system.
+
+ ---
 # 👨‍💻 Author
 
 **Sudhir Satapathy**
